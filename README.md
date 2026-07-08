@@ -12,7 +12,7 @@ The primary goal of this project is to support data-driven HR decision-making by
 
 > **Dashboard Screenshot**
 
-![HR Analytics Dashboard](Screenshots/Dashboard.png)
+![HR Analytics Dashboard](Output.png)
 
 ---
 
